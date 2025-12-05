@@ -4,6 +4,8 @@
 #include "vector.h"
 #include "config.h"
 
+//Only Person Working on Project: Ryan Koller
+
 //compute: Updates the positions and locations of the objects in the system based on gravity.
 //Parameters: None
 //Returns: None
